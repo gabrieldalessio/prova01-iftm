@@ -1,0 +1,25 @@
+body { 
+    font-family: Arial; 
+}
+summary {
+    color:blue;
+}
+h1 {
+    color:green;
+}
+h2 {
+    color: brown;
+}
+h3 {
+    color: brown;
+}
+.imagens {
+    display: flex; 
+    text-align: center;
+}
+.link {
+    margin-right: 5px;
+}
+.link p {
+    margin: 2px;
+}
